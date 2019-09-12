@@ -1,0 +1,14 @@
+https://www.pythonanywhere.com/
+pricing & signup
+create a beginer account
+sign in and confirm email
+files
+upload a file
+the go to console
+click on bash
+mkvirtualenv django20 --python=/usr/bin/python3.6
+pip install django==2.0
+pip install Faker==2.0.1
+upzip filename.zip
+now go to web from main dashboard
+select python version n create new app
